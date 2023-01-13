@@ -141,4 +141,48 @@ nav ul li a:hover {
   color: #495371;
   background-color: #74959a;
   border-color: #74959a;
+}
+
+#cabecalho {
+  text-align: center;
+  font-size: 1.5rem;
+  border-top: 2px solid #495371;
+  margin-top: 1rem;
+  padding: 1.2rem;
+  background: linear-gradient(to left, #495371, #74959a, #f1e0ac, #495371);
+}
+#cabecalho i {
+  color: red;
+}
+
+#compra {
+  margin: 80px;
+}
+#compra .img-container {
+  text-align: center;
+}
+#compra h3 {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 45px;
+  font-weight: 300;
+  color: #74959a;
+}
+#compra h4 {
+  font-size: 1.5rem;
+  color: #495371;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+}
+#compra p {
+  font-size: 1.5rem;
+  color: #495371;
+  text-transform: uppercase;
+  font-weight: 300;
+  text-align: center;
+}
+#compra a {
+  text-decoration: none;
+  color: #495371;
 }/*# sourceMappingURL=style.css.map */
