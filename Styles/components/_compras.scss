@@ -1,0 +1,33 @@
+@import '../abstract/variaveis';
+
+#compra {
+    margin: 80px;
+    .img-container {
+        text-align: center;
+    }
+    h3 {
+        text-align: center;
+        font-size: $tamanho-do-texto/1.2;
+        margin-bottom: 45px;
+        font-weight: 300;
+        color: $cor-secundaria;
+    }
+    h4 {
+        font-size: $tamanho-do-texto/2;
+        color: $cor-primaria;
+        text-transform: uppercase;
+        font-weight: 300;
+        text-align: center;
+    }
+    p{
+        font-size: $tamanho-do-texto/2;
+        color: $cor-primaria;
+        text-transform: uppercase;
+        font-weight: 300;
+        text-align: center;
+    }
+    a{
+        text-decoration: none;
+        color: $cor-primaria;
+    }
+}
